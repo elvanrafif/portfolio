@@ -61,7 +61,7 @@
               </NuxtLink>
             </li>
             <li>
-              <NuxtLink to="https://www.inkedin.com/in/muhammad-elvan-8457b3119/" target="_blank">
+              <NuxtLink to="https://www.linkedin.com/in/muhammad-elvan-8457b3119/" target="_blank">
                 <i class="bi bi-linkedin"></i>
               </NuxtLink>
             </li>

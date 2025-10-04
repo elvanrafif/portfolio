@@ -127,7 +127,7 @@ const skills = ref([
                                 Phone
                               </span>
                               <a href="#">
-                                +(62) 857 XXXX 9883
+                                +(62) 857 9357 9883
                               </a>
                             </div>
                           </div>
@@ -168,7 +168,7 @@ const skills = ref([
                                   </NuxtLink>
                                 </li>
                                 <li>
-                                  <NuxtLink target="_blank" to="https://inkedin.com/in/muhammad-elvan-8457b3119/"> <i class="bi bi-linkedin"></i>
+                                  <NuxtLink target="_blank" to="https://linkedin.com/in/muhammad-elvan-8457b3119/"> <i class="bi bi-linkedin"></i>
                                   </NuxtLink>
                                 </li>
                               </ul>

@@ -55,7 +55,7 @@ const props = defineProps({
           </div>
         </div>
       </div>
-      <div class="sub__contact-right mb-80 position-relative">
+      <div class="sub__contact-right mb-100 position-relative">
         <ul class="social d-flex gap-3">
           <li>
             <NuxtLink target="_blank" to="https://www.facebook.com/elvanrff">
@@ -68,7 +68,7 @@ const props = defineProps({
             </NuxtLink>
           </li>
           <li>
-            <NuxtLink target="_blank" to="https://www.inkedin.com/in/muhammad-elvan-8457b3119/">
+            <NuxtLink target="_blank" to="https://www.linkedin.com/in/muhammad-elvan-8457b3119/">
               <i class="bi bi-linkedin"></i>
             </NuxtLink>
           </li>
