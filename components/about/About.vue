@@ -120,7 +120,7 @@ const skills = ref([
                             </div>
                           </div>
                         </div>
-                        <div class="col-xxl-6 col-xl-6 col-lg-12 col-md-6" data-aos="zoom-in">
+                        <!-- <div class="col-xxl-6 col-xl-6 col-lg-12 col-md-6" data-aos="zoom-in">
                           <div class="abox">
                             <div class="about__contbox__item">
                               <span class="ptext fz-18 mb-20 d-block">
@@ -131,7 +131,7 @@ const skills = ref([
                               </a>
                             </div>
                           </div>
-                        </div>
+                        </div> -->
                         <div class="col-xxl-6 col-xl-6 col-lg-12 col-md-6" data-aos="zoom-in">
                           <div class="abox">
                             <div class="about__contbox__item">
@@ -139,18 +139,22 @@ const skills = ref([
                                 Address
                               </span>
                               <a href="#">
-                                Jakarta, Indonesia
+                                South Jakarta, Indonesia
                               </a>
                             </div>
                           </div>
                         </div>
-                        <div class="col-xxl-6 col-xl-6 col-lg-12 col-md-6" data-aos="zoom-in">
-                          <div class="abox">
+                        <div class="col-xxl-12 col-xl-12 col-lg-12 col-md-12" data-aos="zoom-in">
+                          <div class="abox text-center">
                             <div class="about__contbox__item">
                               <span class="ptext fz-18 mb-20 d-block">
                                 Follow
                               </span>
-                              <ul class="d-flex align-items-center gap-2 gap-xl-4">
+                              <ul class="d-flex justify-content-center align-items-center gap-2 gap-xl-4">
+                                <li>
+                                  <NuxtLink target="_blank" to="https://linkedin.com/in/muhammad-elvan-8457b3119/"> <i class="bi bi-linkedin"></i>
+                                  </NuxtLink>
+                                </li>
                                 <li>
                                   <NuxtLink target="_blank" to="https://facebook.com/elvanrff"> <i class="bi bi-facebook"></i>
                                   </NuxtLink>
@@ -164,13 +168,10 @@ const skills = ref([
                                   </NuxtLink>
                                 </li>
                                 <li>
-                                  <NuxtLink target="_blank" to="https://elvanrafif.com"> <i class="bi bi-globe"></i>
+                                  <NuxtLink target="_blank" to="https://elvanrff.com"> <i class="bi bi-globe"></i>
                                   </NuxtLink>
                                 </li>
-                                <li>
-                                  <NuxtLink target="_blank" to="https://linkedin.com/in/muhammad-elvan-8457b3119/"> <i class="bi bi-linkedin"></i>
-                                  </NuxtLink>
-                                </li>
+                                
                               </ul>
                             </div>
                           </div>

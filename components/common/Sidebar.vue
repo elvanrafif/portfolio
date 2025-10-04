@@ -44,7 +44,7 @@ const props = defineProps({
             </a>
           </div>
         </div>
-        <div class="sub__contac-item">
+        <!-- <div class="sub__contac-item">
           <div class="content">
             <span class="address d-block">
               call now
@@ -53,10 +53,20 @@ const props = defineProps({
               +62 857 9357 9883
             </a>
           </div>
-        </div>
+        </div> -->
       </div>
       <div class="sub__contact-right mb-100 position-relative">
         <ul class="social d-flex gap-3">
+          <li>
+            <NuxtLink target="_blank" to="https://www.linkedin.com/in/muhammad-elvan-8457b3119/">
+              <i class="bi bi-linkedin"></i>
+            </NuxtLink>
+          </li>
+          <li>
+            <NuxtLink target="_blank" to="https://www.instagram.com/elvanrff/">
+              <i class="bi bi-instagram"></i>
+            </NuxtLink>
+          </li>
           <li>
             <NuxtLink target="_blank" to="https://www.facebook.com/elvanrff">
               <i class="bi bi-facebook"></i>
@@ -65,16 +75,6 @@ const props = defineProps({
           <li>
             <NuxtLink target="_blank" to="https://www.twitter.com/elvanrff">
               <i class="bi bi-twitter"></i>
-            </NuxtLink>
-          </li>
-          <li>
-            <NuxtLink target="_blank" to="https://www.linkedin.com/in/muhammad-elvan-8457b3119/">
-              <i class="bi bi-linkedin"></i>
-            </NuxtLink>
-          </li>
-          <li>
-            <NuxtLink target="_blank" to="https://www.youtube.com">
-              <i class="bi bi-youtube"></i>
             </NuxtLink>
           </li>
         </ul>

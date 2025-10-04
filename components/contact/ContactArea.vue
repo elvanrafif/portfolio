@@ -131,20 +131,53 @@ async function handleSubmit() {
             </div>
             <div class="contact__item mb-20">
               <span class="he1">
-                Phone
-              </span>
-              <a href="tel:+(2) 871 382 023">
-                +(62) 857 9357 9883
-              </a>
-            </div>
-            <div class="contact__item">
-              <span class="he1">
                 Address
               </span>
               <span class="address">
                 South Jakarta, Indonesia
               </span>
             </div>
+            <div class="contact__item">
+              <span class="he1">
+                Follow us
+              </span>
+              <ul class="social d-flex gap-3">
+                <li>
+                  <NuxtLink target="_blank" to="https://www.linkedin.com/in/muhammad-elvan-8457b3119/">
+                    <i class="bi bi-linkedin"></i>
+                  </NuxtLink>
+                </li>
+                <li>
+                  <NuxtLink target="_blank" to="https://www.instagram.com/elvanrff/">
+                    <i class="bi bi-instagram"></i>
+                  </NuxtLink>
+                </li>
+                <li>
+                  <NuxtLink target="_blank" to="https://www.facebook.com/elvanrff">
+                    <i class="bi bi-facebook"></i>
+                  </NuxtLink>
+                </li>
+                <li>
+                  <NuxtLink target="_blank" to="https://www.twitter.com/elvanrff">
+                    <i class="bi bi-twitter"></i>
+                  </NuxtLink>
+                </li>
+                <!-- <li>
+                  <NuxtLink target="_blank" to="https://www.youtube.com">
+                    <i class="bi bi-youtube"></i>
+                  </NuxtLink>
+                </li> -->
+              </ul>
+            </div>
+            <!-- <div class="contact__item mb-20">
+              <span class="he1">
+                Phone
+              </span>
+              <a href="tel:+(2) 871 382 023">
+                +(62) 857 9357 9883
+              </a>
+            </div> -->
+
           </div>
         </div>
       </div>
