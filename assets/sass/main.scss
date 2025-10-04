@@ -1,0 +1,50 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500;600;700&family=Kanit:wght@400;500;600;700&display=swap');
+/*============================================ 
+	# Template Name: matias
+	# Version: 1.0
+	# Date: 00/00/2023
+	# Author: matias
+	# Author URI: https://themeforest.net/user/wildstone-theme
+	# Description: Matias - HTML Templates
+============================================*/
+
+/*======== Scss Compiles =========
+# mixin
+# variables
+# Typography
+# button 
+# animation
+# banner
+# blog
+# header
+# section
+# footer
+============================================*/
+
+/*CSS Table Of Content Ends Here*/
+
+
+    @import "_abstracts/_mixins"; 	
+    @import "_abstracts/_variables";  
+    @import "_base/_typography";  
+    @import "_layout/_header"; 
+    @import "_layout/_banner"; 
+    @import "_layout/_about"; 
+    @import "_layout/_section"; 
+    @import "_layout/_animation"; 
+    @import "_layout/_blog"; 
+    @import "_layout/_footer"; 
+    @import "_layout/_video"; 
+
+
+    @import "_components/_buttons";
+
+    // @import "animate.css";
+    // @import "magnific-popup.css";
+    // @import "swiper-bundle.min.css";
+    // @import "bootstrap-icons.min.css";
+    // @import "nice-select.css";
+    // @import "odometer.css";
