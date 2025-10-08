@@ -68,7 +68,7 @@
               </a>
             </li>
           </ul> -->
-          <NuxtLink to="/#about" class="toparrow">
+          <NuxtLink to="/#about" class="toparrow" aria-label="Scroll to top">
             <i class="bi bi-arrow-up-short"></i>
           </NuxtLink>
         </div>
