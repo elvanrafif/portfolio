@@ -25,5 +25,13 @@ export default defineNuxtConfig({
 	},
 	runtimeConfig: {
 		resendApiKey: process.env.RESEND_API_KEY
+	},
+	routeRules: {
+		'/blog-details': { redirect: '/' }, // Redirect permanen (301)
+		'/blog': { redirect: '/' }, // Redirect permanen (301)
+		'/portfolio': { redirect: '/' }, // Redirect permanen (301)
+		'/portfolio-details': { redirect: '/' }, // Redirect permanen (301)
+		'/service': { redirect: '/' }, // Redirect permanen (301)
+		'/service-details': { redirect: '/' }, // Redirect permanen (301)
 	}
 });

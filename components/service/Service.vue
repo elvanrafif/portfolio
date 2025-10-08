@@ -74,10 +74,10 @@ const formatIndex = (index) => {
                   {{ service.category }}
                 </h5>
                 <h2>
-                  <NuxtLink to="/service">
+                  <!-- <NuxtLink to="/service"> -->
                     <!-- Judul dinamis -->
                     {{ service.title }}
-                  </NuxtLink>
+                  <!-- </NuxtLink> -->
                 </h2>
               </div>
             </div>
