@@ -190,7 +190,7 @@ const videoUrl = 'https://www.youtube.com/embed/cuA_ZDb-QDk?si=MlPxBV05EDKHnvIk'
         </div>
         <div class="col-lg-4">
           <div class="banner__thumb" data-aos="fade-up-right" data-aos-duration="300">
-            <NuxtImg src="~/assets/img/banner/pas-foto.png" alt="man-img" style="max-width: 550px;" format="webp" />
+            <img src="/pas-foto.webp" alt="man-img" style="max-width: 550px;" />
           </div>
         </div>
       </div>
@@ -225,27 +225,27 @@ const videoUrl = 'https://www.youtube.com/embed/cuA_ZDb-QDk?si=MlPxBV05EDKHnvIk'
       <div class="banner__xlsocial">
         <ul class="banner__soci d-grid justify-content-center">
           <li>
-            <NuxtLink to="https://www.facebook.com/elvanrff" target="_blank">
+            <NuxtLink to="https://www.facebook.com/elvanrff" target="_blank" aria-label="Facebook">
               <i class="bi bi-facebook"></i>
             </NuxtLink>
           </li>
           <li>
-            <NuxtLink to="https://www.twitter.com/elvanrff" target="_blank">
+            <NuxtLink to="https://www.twitter.com/elvanrff" target="_blank" aria-label="Twitter">
               <i class="bi bi-twitter"></i>
             </NuxtLink>
           </li>
           <li>
-            <NuxtLink to="https://www.instagram.com/elvanrff" target="_blank">
+            <NuxtLink to="https://www.instagram.com/elvanrff" target="_blank" aria-label="Instagram">
               <i class="bi bi-instagram"></i>
             </NuxtLink>
           </li>
           <li>
-            <NuxtLink to="https://www.elvanrff.com" target="_blank">
+            <NuxtLink to="https://www.elvanrff.com" target="_blank" aria-label="Website">
               <i class="bi bi-globe"></i>
             </NuxtLink>
           </li>
           <li>
-            <NuxtLink to="https://www.linkedin.com/in/muhammad-elvan-8457b3119/" target="_blank">
+            <NuxtLink to="https://www.linkedin.com/in/muhammad-elvan-8457b3119/" target="_blank" aria-label="LinkedIn">
               <i class="bi bi-linkedin"></i>
             </NuxtLink>
           </li>

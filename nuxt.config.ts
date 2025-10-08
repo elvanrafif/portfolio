@@ -18,6 +18,9 @@ export default defineNuxtConfig({
 	modules: ["nuxt-marquee", '@nuxt/image'],
 	app: {
 		head: {
+			htmlAttrs: {
+				lang: 'en'
+			},
 			link: [
 				{ rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css' }
 			]

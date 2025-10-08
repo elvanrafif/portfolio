@@ -152,23 +152,23 @@ const skills = ref([
                               </span>
                               <ul class="d-flex justify-content-center align-items-center gap-2 gap-xl-4">
                                 <li>
-                                  <NuxtLink target="_blank" to="https://linkedin.com/in/muhammad-elvan-8457b3119/"> <i class="bi bi-linkedin"></i>
+                                  <NuxtLink target="_blank" to="https://linkedin.com/in/muhammad-elvan-8457b3119/" aria-label="LinkedIn"> <i class="bi bi-linkedin"></i>
                                   </NuxtLink>
                                 </li>
                                 <li>
-                                  <NuxtLink target="_blank" to="https://facebook.com/elvanrff"> <i class="bi bi-facebook"></i>
+                                  <NuxtLink target="_blank" to="https://facebook.com/elvanrff" aria-label="Facebook"> <i class="bi bi-facebook"></i>
                                   </NuxtLink>
                                 </li>
                                 <li>
-                                  <NuxtLink target="_blank" to="https://twitter.com/elvanrff"> <i class="bi bi-twitter"></i>
+                                  <NuxtLink target="_blank" to="https://twitter.com/elvanrff" aria-label="Twitter"> <i class="bi bi-twitter"></i>
                                   </NuxtLink>
                                 </li>
                                 <li>
-                                  <NuxtLink target="_blank" to="https://instagram.com/elvanrff"> <i class="bi bi-instagram"></i>
+                                  <NuxtLink target="_blank" to="https://instagram.com/elvanrff" aria-label="Instagram"> <i class="bi bi-instagram"></i>
                                   </NuxtLink>
                                 </li>
                                 <li>
-                                  <NuxtLink target="_blank" to="https://elvanrff.com"> <i class="bi bi-globe"></i>
+                                  <NuxtLink target="_blank" to="https://elvanrff.com" aria-label="Website"> <i class="bi bi-globe"></i>
                                   </NuxtLink>
                                 </li>
                                 
