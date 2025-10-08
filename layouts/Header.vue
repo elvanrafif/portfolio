@@ -190,7 +190,7 @@ const videoUrl = 'https://www.youtube.com/embed/cuA_ZDb-QDk?si=MlPxBV05EDKHnvIk'
         </div>
         <div class="col-lg-4">
           <div class="banner__thumb" data-aos="fade-up-right" data-aos-duration="300">
-            <img src="~/assets/img/banner/pas-foto.png" alt="man-img" style="max-width: 550px;">
+            <NuxtImg src="~/assets/img/banner/pas-foto.png" alt="man-img" style="max-width: 550px;" format="webp" />
           </div>
         </div>
       </div>
