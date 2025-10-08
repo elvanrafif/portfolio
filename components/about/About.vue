@@ -208,9 +208,9 @@ const skills = ref([
                           2021 - 2022
                         </span>
                         <div class="expri__cont">
-                          <h4 class="mb-15 text-white">
+                          <p class="mb-15 text-white fz-24">
                             Jr. Software Engineer
-                          </h4>
+                          </p>
                           <p class="fz-18 pra d-block text-end">
                             Transfez
                           </p>
@@ -221,9 +221,9 @@ const skills = ref([
                           2022 - present
                         </span>
                         <div class="expri__cont">
-                          <h4 class="mb-15 text-white">
+                          <p class="mb-15 text-white fz-24">
                             Software Engineer
-                          </h4>
+                          </p>
                           <p class="fz-18 pra d-block text-end">
                             Transfez & Jack
                           </p>
@@ -273,9 +273,9 @@ const skills = ref([
                           2013-2017
                         </span>
                         <div class="expri__cont">
-                          <h4 class="mb-15 text-white  text-end">
+                          <p class="mb-15 text-white  text-end fz-24">
                             Information Systems
-                          </h4>
+                          </p>
                           <p class="fz-18 pra d-block text-end">
                             Computer Science at Gunadarma University
                           </p>
@@ -286,9 +286,9 @@ const skills = ref([
                           2020
                         </span>
                         <div class="expri__cont">
-                          <h4 class="mb-15 text-white text-end">
+                          <p class="mb-15 text-white text-end fz-24">
                             Bootcamp Fullstack Javascript
-                          </h4>
+                          </p>
                           <p class="fz-18 pra d-block text-end">
                             Hacktiv8
                           </p>

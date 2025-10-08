@@ -63,7 +63,7 @@ const props = defineProps({
               </NuxtLink>
             </li>
             <li>
-              <NuxtLink href="/#about">
+              <NuxtLink href="/#about" aria-label="About">
                 About
               </NuxtLink>
             </li>
@@ -73,7 +73,7 @@ const props = defineProps({
               </NuxtLink>
             </li> -->
             <li>
-              <NuxtLink to="/#services">
+              <NuxtLink to="/#services" aria-label="Services">
                 Services
               </NuxtLink>
               <!-- <ul class="sub-menu">
@@ -108,7 +108,7 @@ const props = defineProps({
               </ul>
             </li> -->
             <li>
-              <NuxtLink to="/contact">
+              <NuxtLink to="/contact" aria-label="Contact">
                 Contact
               </NuxtLink>
             </li>

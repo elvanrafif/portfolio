@@ -58,22 +58,22 @@ const props = defineProps({
       <div class="sub__contact-right mb-100 position-relative">
         <ul class="social d-flex gap-3">
           <li>
-            <NuxtLink target="_blank" to="https://www.linkedin.com/in/muhammad-elvan-8457b3119/">
+            <NuxtLink target="_blank" to="https://www.linkedin.com/in/muhammad-elvan-8457b3119/" aria-label="LinkedIn">
               <i class="bi bi-linkedin"></i>
             </NuxtLink>
           </li>
           <li>
-            <NuxtLink target="_blank" to="https://www.instagram.com/elvanrff/">
+            <NuxtLink target="_blank" to="https://www.instagram.com/elvanrff/" aria-label="Instagram">
               <i class="bi bi-instagram"></i>
             </NuxtLink>
           </li>
           <li>
-            <NuxtLink target="_blank" to="https://www.facebook.com/elvanrff">
+            <NuxtLink target="_blank" to="https://www.facebook.com/elvanrff" aria-label="Facebook">
               <i class="bi bi-facebook"></i>
             </NuxtLink>
           </li>
           <li>
-            <NuxtLink target="_blank" to="https://www.twitter.com/elvanrff">
+            <NuxtLink target="_blank" to="https://www.twitter.com/elvanrff" aria-label="Twitter">
               <i class="bi bi-twitter"></i>
             </NuxtLink>
           </li>
