@@ -15,7 +15,7 @@ export default defineNuxtConfig({
 	],
 
 	plugins: [{ src: "@/plugins/aos", ssr: false }],
-	modules: ["nuxt-marquee"],
+	modules: ["nuxt-marquee", '@nuxt/image'],
 	app: {
 		head: {
 			link: [

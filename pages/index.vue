@@ -3,6 +3,8 @@
 import Header from '~/layouts/Header.vue';
 import Footer from "~/layouts/Footer.vue";
 
+const GOOGLE_VERIFICATION_CODE = "ohkKXBm3D9bhDr8runwuTTkY7HEKh3gCuNJM9Gaic_E";
+
 useHead({
   // 1. Title (Already there, but crucial)
   title: "Elvan Rafif | Frontend Developer Portfolio",
@@ -65,6 +67,10 @@ useHead({
       rel: 'icon',
       type: 'image/x-icon',
       href: '/favicon.ico',
+    },
+    {
+      name: 'google-site-verification',
+      content: GOOGLE_VERIFICATION_CODE,
     },
   ],
 })
